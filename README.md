@@ -3,3 +3,5 @@ Posenet is a real-time pose detection technique with which you can detect human 
 
 You can check out the whole working from here:
 Link: https://preeti-yadav-cs1.github.io/PoseNet-ml5.js/
+
+This model can be furthur deployed in building a YOGA AI TRAINER and many more.
